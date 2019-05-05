@@ -68,35 +68,47 @@ https://demo-api.oregonstate.education/api/
 ### API
 
 #### Create Item (POST)
+
 *base_url*/item
 
 **Request Parameters**
+
 *user_id* - string - Your user ID (made up).
+
 *value* - string
 
 #### Get Items (GET)
+
 *base_url*/items
 
 **Request Parameters**
+
 *user_id* - string - Your user ID (made up).
 
 
 
 
 #### Update Item (PUT)
+
 *base_url*/item
 
 **Request Parameters**
+
 *user_id* - string - Your user ID (made up).
+
 *id* - integer - ID of the item you want to update.
+
 *value* - string - New string to replace the previous value with.
 
 
 #### Delete Item (DELETE)
+
 *base_url*/item
 
 **Request Parameters**
+
 *user_id* - string - Your user ID (made up).
+
 *id* - integer - ID of the item you want to delete
 
 ### Insomnia
