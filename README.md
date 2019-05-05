@@ -116,7 +116,7 @@ https://demo-api.oregonstate.education/api/
 You can use Insomnia to make the REST calls during development. This application is similar to Postman or Paw. It is not required, but available for additional assistance in understanding the API.
 
 [https://insomnia.rest/](https://insomnia.rest/)
-[Document]
+[Insomnia API Schema](https://raw.githubusercontent.com/osuecampus/geolocation-recording-application/master/Insomnia.json)
 
 
 ### Data Store Sample Item
