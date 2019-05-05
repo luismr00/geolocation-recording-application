@@ -8,6 +8,7 @@ An instructor has asked our team to develop an application that can record the n
 Our team has agreed that it can deliver a simple geolocation recording application for this Ecampus course. It will be a web application that runs on all major browsers and modern mobile devices.
 
 **Restrictions**
+
 Due to potential conflicts with the course management system, we cannot use jQuery, React, or any other javascript library. 
 
 
@@ -25,24 +26,24 @@ Students should be able to view any information about their recorded locations u
 
 As a user, I would like to add a new location.
 As a user, I want to see a list of all locations (no sorting necessary).
-As a user, I want to see the name and coordinates (latitude, longitude) of each location.
-As a user, I want my records saved to the Datastore so they persist beyond a single session.
+* As a user, I want to see the name and coordinates (latitude, longitude) of each location.
+* As a user, I want my records saved to the Datastore so they persist beyond a single session.
 
 ### Data Validation
 
-Latitude should be with a range of -90 to 90.
-Longitude should be within a range of -180 to 180.
-Latitude and longitude should not accept any non-numerical characters.
+* Latitude should be with a range of -90 to 90.
+* Longitude should be within a range of -180 to 180.
+* Latitude and longitude should not accept any non-numerical characters.
 
 ### Accessibility
 
-As a user, I should be able to focus on each input using tab.
-As a user, I should be able to complete the exercise using only the keyboard.
+* As a user, I should be able to focus on each input using tab.
+* As a user, I should be able to complete the exercise using only the keyboard.
 
 ## Optional
 
-As a user, I want to edit a location.
-As a user, I want to delete a location.
+* As a user, I want to edit a location.
+* As a user, I want to delete a location.
 
 
 ## Data Architecture
@@ -119,7 +120,11 @@ You can use Insomnia to make the REST calls during development. This application
 ```
 
 **id** (integer, read-only)  is the unique identification number for this item.
+
 **user_id** (string)  is the name of user who created the item.
+
 **value** (string) is contents of the item.
+
 **created_date** (integer, read-only) is a Unix timestamp from when the item was created.
+
 **edit_date** (integer, read-only) is a Unix timestamp from when the item was edited (if it was) (read only)
