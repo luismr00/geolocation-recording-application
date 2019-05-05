@@ -7,10 +7,9 @@ An instructor has asked our team to develop an application that can record the n
 
 Our team has agreed that it can deliver a simple geolocation recording application for this Ecampus course. It will be a web application that runs on all major browsers and modern mobile devices.
 
-**Restrictions**
+## Restrictions
 
 Due to potential conflicts with the course management system, we cannot use jQuery, React, or any other javascript library. 
-
 
 ## Intended Use
 
@@ -141,3 +140,10 @@ You can use Insomnia to make the REST calls during development. This application
 **created_date** (integer, read-only) is a Unix timestamp from when the item was created.
 
 **edit_date** (integer, read-only) is a Unix timestamp from when the item was edited (if it was) (read only)
+
+
+## Submission Instructions
+
+You should create your own public git repository (on GitHub, BitBucket, etc) and share the URL to the repository back to the OSU hiring application contact.
+
+It is highly recommended to use git and make commits during the development, and not just a single commit at the end of the project.
