@@ -28,7 +28,6 @@ Below are the steps required to submit the sample project. GitHub Pages will hos
 
 1. Create a repository on GitHub, enable 
 2. Put all files for the submission in a docs/ folder.
-3. Enable GitHub Pages for your repository:
-4. [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
+3. Enable GitHub Pages for your repository: [Publishing GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
 5. Share the link back to your the OSU hiring contact.
 
