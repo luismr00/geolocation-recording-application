@@ -1,3 +1,5 @@
+
+
 # Geolocation Application
 
 ## Summary
@@ -19,3 +21,15 @@ https://s3-us-west-2.amazonaws.com/cdt-web-storage/cities.json
 ### Restrictions
 
 Only use Javascript, CSS and HTML. No jQuery, React. Bootstrap, etc should be used.
+
+
+## Submission Instructions
+
+Below are the steps required to submit the sample project. GitHub Pages will host your final submission.
+
+1. Create a repository on GitHub, enable 
+2. Put all files for the submission in a docs/ folder.
+3. Enable GitHub Pages for your repository:
+4. [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
+5. Share the link back to your the OSU hiring contact.
+
