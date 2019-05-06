@@ -25,6 +25,7 @@ An instructor has provided a list of cities and their geocoordinates (latitude a
 
 4. Allow the user to sort the data, ascending and descending, based on the distance.
 
+<br><br><br><br>
 
 ## Exercise B: Custom Button
 
@@ -35,6 +36,7 @@ An instructor has provided a list of cities and their geocoordinates (latitude a
 
 1. Duplicate the button above as an HTML element using just CSS and HTML.
 
+<br><br><br><br>
 
 # Submission Instructions
 
