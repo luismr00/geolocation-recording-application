@@ -11,7 +11,7 @@ An instructor has provided a list of cities and their geocoordinates (latitude a
 1. The web application should fetch the JSON at runtime from here: [cities.json](https://s3-us-west-2.amazonaws.com/cdt-web-storage/cities.json)
 
 2. Calculate the distance between each city and OSU using this function:
-[https://github.com/osuecampus/geolocation-recording-application/blob/master/distance.js](https://github.com/osuecampus/geolocation-recording-application/blob/master/distance.js)
+[distance.js](https://github.com/osuecampus/geolocation-recording-application/blob/master/distance.js)
 
 3. Display the name, latitude, longitude and calculated distance for each city in the JSON file.
 
