@@ -8,6 +8,8 @@ There are two exercises we would like you to complete and submit as part of your
 
 Only use Javascript, CSS and HTML. No jQuery, React. Bootstrap, etc should be used.
 
+<br><br>
+
 ## Exercise A: Geolocation Report
 
 An instructor has provided a list of cities and their geocoordinates (latitude and longitude) in JSON format. The instructor would like a web application which fetches the data and displays it to a user. The application should calculate the distance between Oregon State University and the city listed in the JSON. The instructor has provided a function for you to use for this purpose. Lastly, the rendered data should be sortable by ascending and descending calculated distance.
