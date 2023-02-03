@@ -45,6 +45,3 @@ An instructor has provided a list of cities and their geocoordinates (latitude a
 ### Instructions
 
 1. Duplicate the button above as an HTML element using just CSS and HTML.
-
-<br><br><br><br>
-
