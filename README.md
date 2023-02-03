@@ -1,12 +1,22 @@
 
 
-# Application Exercises
+# Position Application Exercises
 
 There are two exercises we would like you to complete and submit as part of your application process.
 
-### Restrictions
+## Restrictions
 
-Only use Javascript, CSS and HTML. No jQuery, React. Bootstrap, etc should be used.
+* Only use Javascript, CSS and HTML.
+* No third-party libraries or frameworks (jQuery, Vue, React, Bootstrap, etc).
+
+## Submission Instructions
+
+Below are the steps required to submit the exercises. GitHub Pages will host your final submission.
+
+1. Create a new repository on GitHub (do not fork or clone this one). 
+2. Put all files for the submission in a docs/ folder.
+3. Enable GitHub Pages for your repository: [Publishing GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
+5. Share the link back to your the OSU hiring contact for both submission exercises.
 
 <br><br>
 
@@ -21,9 +31,9 @@ An instructor has provided a list of cities and their geocoordinates (latitude a
 2. Calculate the distance between each city and OSU using this function:
 [distance.js](https://github.com/osuecampus/geolocation-recording-application/blob/master/distance.js)
 
-3. Display the name, latitude, longitude and calculated distance for each city in the JSON file.
+3. Display the name, latitude, longitude, and calculated distance for each city in the JSON file.
 
-4. Allow the user to sort the data, ascending and descending, based on the distance.
+4. Allow the student to sort the data, ascending and descending, based on the distance.
 
 <br><br><br><br>
 
@@ -37,13 +47,4 @@ An instructor has provided a list of cities and their geocoordinates (latitude a
 1. Duplicate the button above as an HTML element using just CSS and HTML.
 
 <br><br><br><br>
-
-# Submission Instructions
-
-Below are the steps required to submit the sample project. GitHub Pages will host your final submission.
-
-1. Create a new repository on GitHub (do not fork or clone this one). 
-2. Put all files for the submission in a docs/ folder.
-3. Enable GitHub Pages for your repository: [Publishing GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
-5. Share the link back to your the OSU hiring contact for both submission pieces.
 
